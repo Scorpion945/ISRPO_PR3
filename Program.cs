@@ -20,6 +20,9 @@ namespace pr3
                 case '+':
                     Console.WriteLine($"a + b = {clas.Plus(a, b)}");
                     break;
+                case '-':
+                    Console.WriteLine($"a - b = {clas.Minus(a, b)}");
+                    break;
             }
             Console.ReadKey();
         }

@@ -12,3 +12,4 @@ C:\Users\maxxv\OneDrive\Рабочий стол\pr3\obj\Debug\net8.0\refint\pr3.
 C:\Users\maxxv\OneDrive\Рабочий стол\pr3\obj\Debug\net8.0\pr3.pdb
 C:\Users\maxxv\OneDrive\Рабочий стол\pr3\obj\Debug\net8.0\pr3.genruntimeconfig.cache
 C:\Users\maxxv\OneDrive\Рабочий стол\pr3\obj\Debug\net8.0\ref\pr3.dll
+C:\Users\maxxv\OneDrive\Рабочий стол\pr3\obj\Debug\net8.0\pr3.sourcelink.json
