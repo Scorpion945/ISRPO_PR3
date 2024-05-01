@@ -26,6 +26,9 @@ namespace pr3
                 case '/':
                     Console.WriteLine($"a / b = {clas.Div(a, b)}");
                     break;
+                case '*':
+                    Console.WriteLine($"a * b = {clas.Multi(a, b)}");
+                    break;
             }
             Console.ReadKey();
         }
