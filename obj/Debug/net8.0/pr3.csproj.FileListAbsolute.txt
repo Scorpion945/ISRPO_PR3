@@ -1,0 +1,14 @@
+C:\Users\maxxv\OneDrive\Рабочий стол\pr3\bin\Debug\net8.0\pr3.exe
+C:\Users\maxxv\OneDrive\Рабочий стол\pr3\bin\Debug\net8.0\pr3.deps.json
+C:\Users\maxxv\OneDrive\Рабочий стол\pr3\bin\Debug\net8.0\pr3.runtimeconfig.json
+C:\Users\maxxv\OneDrive\Рабочий стол\pr3\bin\Debug\net8.0\pr3.dll
+C:\Users\maxxv\OneDrive\Рабочий стол\pr3\bin\Debug\net8.0\pr3.pdb
+C:\Users\maxxv\OneDrive\Рабочий стол\pr3\obj\Debug\net8.0\pr3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxxv\OneDrive\Рабочий стол\pr3\obj\Debug\net8.0\pr3.AssemblyInfoInputs.cache
+C:\Users\maxxv\OneDrive\Рабочий стол\pr3\obj\Debug\net8.0\pr3.AssemblyInfo.cs
+C:\Users\maxxv\OneDrive\Рабочий стол\pr3\obj\Debug\net8.0\pr3.csproj.CoreCompileInputs.cache
+C:\Users\maxxv\OneDrive\Рабочий стол\pr3\obj\Debug\net8.0\pr3.dll
+C:\Users\maxxv\OneDrive\Рабочий стол\pr3\obj\Debug\net8.0\refint\pr3.dll
+C:\Users\maxxv\OneDrive\Рабочий стол\pr3\obj\Debug\net8.0\pr3.pdb
+C:\Users\maxxv\OneDrive\Рабочий стол\pr3\obj\Debug\net8.0\pr3.genruntimeconfig.cache
+C:\Users\maxxv\OneDrive\Рабочий стол\pr3\obj\Debug\net8.0\ref\pr3.dll
